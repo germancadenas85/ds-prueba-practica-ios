@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "btn_star_big_on.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

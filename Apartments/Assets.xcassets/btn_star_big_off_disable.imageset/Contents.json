@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "btn_star_big_off_disable.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
